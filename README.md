@@ -1,7 +1,11 @@
 # Hi, I’m Ishan 👋 
 
 ## About Me
-👨‍🎓 &nbsp;I am a current student at the University of Pittsburgh.
+#### 👨‍🎓 &nbsp;Education:
+* I am a current student at the University of Pittsburgh
+* Finance Major
+* CS Minor
+* Business Analytics Certificate
 <div align="center">
 
 </div>
