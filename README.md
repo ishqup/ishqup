@@ -1,4 +1,4 @@
-# Hi 👋, I’m Ishan
+# 👋 Hi, I’m Ishan
 
 ## About Me
 #### 👨‍🎓 &nbsp;Education:
