@@ -15,7 +15,7 @@
 
 * Learning Python, Java, & R
 * Data & Statistics
-* Fantasy Football Projections & Power Ratings
+* Sports Analytics, Projections, & Simulation
 * Financial Modeling
 
 <!---
