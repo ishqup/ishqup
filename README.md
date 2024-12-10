@@ -2,7 +2,7 @@
 
 ## About Me
 #### 👨‍🎓 &nbsp;Education:
-* I am a current student at the University of Pittsburgh
+* I graduated from the University of Pittsburgh
 * Finance Major
 * CS Minor
 * Business Analytics Certificate
